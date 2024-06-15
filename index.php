@@ -9,3 +9,4 @@
   <div><?php phpinfo() ?></div>
 </body>
 </html>
+дуцьацу
