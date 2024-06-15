@@ -1,4 +1,6 @@
 <?php
+$var = 'hello';
+$gfrwf = 143;
 $card__posts = [
  [
    'title' => 'The Road Ahead',
